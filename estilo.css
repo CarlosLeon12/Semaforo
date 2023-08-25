@@ -1,0 +1,50 @@
+.pantalla{
+    height: 785px;
+   background-color: aquamarine;
+}
+
+.semaforo{
+    background-color: black;
+    width: 250px;
+    height: 500px;
+    margin-left: 667px;
+    margin-top: 30px;
+}
+
+.pataS{
+    background-color: gray;
+    width: 15px;
+    margin-left: 790px;
+    margin-top: 0px;
+    height: 220px;
+}
+
+.circuloR {
+    width: 100px; /* Ancho del círculo */
+    height: 100px; /* Altura del círculo (igual al ancho para que sea un círculo perfecto) */
+    border-radius: 50%; /* Radio del borde (la mitad del ancho o la altura) */
+    background-color: #ff0404; /* Color de fondo (puedes cambiarlo a tu preferencia) */
+
+    margin-left: 63px;
+    margin-top: 38px;
+  }
+
+  .circuloA {
+    width: 100px; /* Ancho del círculo */
+    height: 100px; /* Altura del círculo (igual al ancho para que sea un círculo perfecto) */
+    border-radius: 50%; /* Radio del borde (la mitad del ancho o la altura) */
+    background-color: #eeff04; /* Color de fondo (puedes cambiarlo a tu preferencia) */
+    
+    margin-left: 63px;
+    margin-top: 38px;
+  }
+
+  .circuloV {
+    width: 100px; /* Ancho del círculo */
+    height: 100px; /* Altura del círculo (igual al ancho para que sea un círculo perfecto) */
+    border-radius: 50%; /* Radio del borde (la mitad del ancho o la altura) */
+    background-color: #00ff22c5; /* Color de fondo (puedes cambiarlo a tu preferencia) */
+    
+    margin-left: 63px;
+    margin-top: 38px;
+  }
